@@ -23,7 +23,7 @@ setup(
     zip_safe=False,
     keywords='django REST',
     install_requires=[
-        'django-rest-framework',
+        'djangorestframework',
     ],
     classifiers=[
         'Environment :: Web Environment',
